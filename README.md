@@ -40,6 +40,12 @@ I focus on clean code, responsive layouts, and smooth animations, while maintain
 
 A selection of my strongest public repositories, ranked by quality, complexity, and styling.
 
+#### 🌟 [AURA](https://github.com/EngSalahKhaled/aura-brand) — Enterprise Luxury Fashion Platform
+> **A comprehensive, enterprise-grade luxury fashion e-commerce platform unifying a premium storefront with a full internal ERP & Admin Dashboard.**
+- **Stack:** Next.js 14 • TypeScript • Tailwind CSS • Supabase (PostgreSQL) • Framer Motion • DOMPurify
+- **Highlight:** Features a headless CMS website manager, role-based access control (RBAC), full RTL Arabic localization, real-time inventory alerts, and dynamic SEO (sitemaps + OpenGraph).
+- **Resources:** [Live Demo](https://aura-brand-virid.vercel.app/) • [Repository](https://github.com/EngSalahKhaled/aura-brand)
+
 #### ⚡ [Copra-Dashboard](https://github.com/EngSalahKhaled/Copra-Dashboard)
 > **A premium, high-performance admin dashboard featuring a cyberpunk dark-mode glassmorphic aesthetic.**
 - **Stack:** HTML5 • CSS3 (Vanilla Glassmorphism) • JavaScript (ES6) • Supabase (Auth & Database) • PLpgSQL
