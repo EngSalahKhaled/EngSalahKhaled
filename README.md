@@ -46,6 +46,12 @@ A selection of my strongest public repositories, ranked by quality, complexity, 
 - **Highlight:** Fully integrated user authentication and database operations utilizing Supabase.
 - **Resources:** [Live Demo](https://copra-dashboard.vercel.app) • [Repository](https://github.com/EngSalahKhaled/Copra-Dashboard)
 
+#### 🚀 [Mashhour-Hub](https://github.com/EngSalahKhaled/Mashhour-Hub-)
+> **A specialized platform hub designed for content creators and influencers, optimizing link aggregation and presentation.**
+- **Stack:** HTML5 • CSS3 • JavaScript (ES6) • Responsive Design
+- **Highlight:** Streamlined navigation and layout engineered for high-performance mobile viewport traffic.
+- **Resources:** [Repository](https://github.com/EngSalahKhaled/Mashhour-Hub-)
+
 #### 🎮 [NeonTech-Gaming-Store](https://github.com/EngSalahKhaled/NeonTech-Gaming--Store)
 > **Premium gaming e-commerce platform with a rich catalog and real-time WhatsApp checkout routing.**
 - **Stack:** HTML5 • CSS3 • JavaScript • WhatsApp Checkout Integration • Supabase Auth
@@ -57,12 +63,6 @@ A selection of my strongest public repositories, ranked by quality, complexity, 
 - **Stack:** HTML5 • CSS3 (High Contrast / Grid System)
 - **Highlight:** Handcrafted responsive layout resolving complex typography grids and border styling without templates.
 - **Resources:** [Repository](https://github.com/EngSalahKhaled/Ui-UX-Landing-Page-)
-
-#### 🛸 [DJI-Mavic-4-Pro-Landing-Page](https://github.com/EngSalahKhaled/-DJI-Mavic-4-Pro-Product-Landing-Page)
-> **A premium, visual-heavy product landing page showcasing modern layout techniques.**
-- **Stack:** HTML5 • CSS3 (Flexbox & Custom Animations)
-- **Highlight:** Fluid responsive scaling optimized for high-resolution product imagery and dark backgrounds.
-- **Resources:** [Repository](https://github.com/EngSalahKhaled/-DJI-Mavic-4-Pro-Product-Landing-Page)
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Divider" />
@@ -130,12 +130,12 @@ I use a curated set of tools and technologies to build scalable, high-performanc
 These charts automatically track my active repositories and coding metrics.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngSalahKhaled&show_icons=true&title_color=f4f4f5&text_color=a1a1aa&bg_color=09090b&icon_color=6366f1&border_color=27272a&border_radius=6" alt="Salah's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngSalahKhaled&layout=compact&title_color=f4f4f5&text_color=a1a1aa&bg_color=09090b&icon_color=6366f1&border_color=27272a&border_radius=6&langs_count=6" alt="Salah's Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=EngSalahKhaled&show_icons=true&title_color=f4f4f5&text_color=a1a1aa&bg_color=09090b&icon_color=6366f1&border_color=27272a&border_radius=6" alt="Salah's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EngSalahKhaled&layout=compact&title_color=f4f4f5&text_color=a1a1aa&bg_color=09090b&icon_color=6366f1&border_color=27272a&border_radius=6&langs_count=6" alt="Salah's Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngSalahKhaled&theme=tokyonight&background=09090b&ring=6366f1&fire=14b8a6&border=27272a&stroke=a1a1aa&currStreakNum=e4e4e7" alt="Salah's Streak Stats" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngSalahKhaled&bg_color=09090b&color=f4f4f5&line=6366f1&point=14b8a6&area=true&hide_border=true" alt="Salah's Activity Graph" width="100%" />
 </p>
 
 <br />
