@@ -2,20 +2,24 @@
 <!--                      HERO BANNER SECTION                   -->
 <!-- ========================================================== -->
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Salah Khaled - Frontend Engineer Banner" />
+  <img src="./assets/header.svg" width="100%" alt="Salah Khaled - Frontend Engineer" />
 </p>
 
-<!-- Professional Subtitle and Location -->
+<!-- Animated Typing Effect -->
 <p align="center">
-  <strong>Frontend Engineer</strong> • Focused on crafting premium, interactive, and high-fidelity web experiences.<br />
-  📍 Riyadh, Saudi Arabia • 💼 Available for Collaboration
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=700&height=40&lines=Building+premium%2C+high-fidelity+web+experiences;React+%7C+Next.js+%7C+TypeScript+%7C+Supabase;Open+Source+Contributor+%E2%9C%A8;Available+for+Collaboration+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
-<!-- Social badging utilizing custom designed matching SVGs -->
+<!-- Social Badges -->
 <p align="center">
-  <a href="https://github.com/EngSalahKhaled"><img src="./assets/github_badge.svg" width="120" alt="GitHub Link" /></a>
-  <a href="https://www.linkedin.com/in/salahkhaled-dev/"><img src="./assets/linkedin_badge.svg" width="120" alt="LinkedIn Link" /></a>
-  <a href="mailto:info@salahkhaled.com"><img src="./assets/email_badge.svg" width="120" alt="Email Link" /></a>
+  <a href="https://github.com/EngSalahKhaled"><img src="./assets/github_badge.svg" width="120" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/salahkhaled-dev/"><img src="./assets/linkedin_badge.svg" width="120" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:info@salahkhaled.com"><img src="./assets/email_badge.svg" width="120" alt="Contact" /></a>
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EngSalahKhaled&color=6366f1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
