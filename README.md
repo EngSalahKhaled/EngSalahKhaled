@@ -7,7 +7,7 @@
 
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=700&height=40&lines=Building+premium%2C+high-fidelity+web+experiences;React+%7C+Next.js+%7C+TypeScript+%7C+Supabase;Open+Source+Contributor+%E2%9C%A8;Available+for+Collaboration+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=700&height=40&lines=Building+premium%2C+high-fidelity+web+experiences;React+%7C+Next.js+%7C+TypeScript+%7C+Supabase;Bilingual+AR%2FEN+%7C+RTL-first+Interfaces+%F0%9F%8C%90;Available+for+Collaboration+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
 <!-- Social Badges -->
@@ -44,11 +44,11 @@ I focus on clean code, responsive layouts, and smooth animations, while maintain
 
 A selection of my strongest public repositories, ranked by quality, complexity, and styling.
 
-#### 🌟 [AURA](https://github.com/EngSalahKhaled/aura-brand) — Enterprise Luxury Fashion Platform
-> **A comprehensive, enterprise-grade luxury fashion e-commerce platform unifying a premium storefront with a full internal ERP & Admin Dashboard.**
-- **Stack:** Next.js 14 • TypeScript • Tailwind CSS • Supabase (PostgreSQL) • Framer Motion • DOMPurify
-- **Highlight:** Features a headless CMS website manager, role-based access control (RBAC), full RTL Arabic localization, real-time inventory alerts, and dynamic SEO (sitemaps + OpenGraph).
-- **Resources:** [Live Demo](https://aura-brand-virid.vercel.app/) • [Repository](https://github.com/EngSalahKhaled/aura-brand)
+#### 🌟 [AURA](https://github.com/EngSalahKhaled/aura-brand) — Luxury Fashion E-commerce + Admin ERP
+> **A luxury fashion e-commerce storefront unified with a full internal ERP & Admin Dashboard in a single Next.js codebase.**
+- **Stack:** Next.js 14 • TypeScript (strict) • Tailwind CSS • Framer Motion • DOMPurify • Custom EventBus + swappable storage adapter (backend-ready)
+- **Highlight:** Headless CMS website manager, role-based access control (RBAC), full RTL Arabic localization, inventory alerts, and dynamic SEO (server-side metadata, sitemaps, JSON-LD, OpenGraph).
+- **Resources:** [Live Demo](https://aura-fashion-virid.vercel.app/) • [Repository](https://github.com/EngSalahKhaled/aura-brand)
 
 #### ⚡ [Copra-Dashboard](https://github.com/EngSalahKhaled/Copra-Dashboard)
 > **A premium, high-performance admin dashboard featuring a cyberpunk dark-mode glassmorphic aesthetic.**
@@ -56,11 +56,17 @@ A selection of my strongest public repositories, ranked by quality, complexity, 
 - **Highlight:** Fully integrated user authentication and database operations utilizing Supabase.
 - **Resources:** [Live Demo](https://copra-dashboard.vercel.app) • [Repository](https://github.com/EngSalahKhaled/Copra-Dashboard)
 
-#### 🚀 [Mashhour-Hub](https://github.com/EngSalahKhaled/Mashhour-Hub-)
-> **A specialized platform hub designed for content creators and influencers, optimizing link aggregation and presentation.**
-- **Stack:** HTML5 • CSS3 • JavaScript (ES6) • Responsive Design
-- **Highlight:** Streamlined navigation and layout engineered for high-performance mobile viewport traffic.
-- **Resources:** [Repository](https://github.com/EngSalahKhaled/Mashhour-Hub-)
+#### 💎 Infinity Bright Portal — Production CRM & Booking System *(client work)*
+> **A CRM and booking-management system running in production for a luxury car-care center in Riyadh — built solo, end to end.**
+- **Stack:** React 19 • Vite • TypeScript • Tailwind CSS 4 • Supabase (PostgreSQL, Auth, Realtime) • Framer Motion
+- **Highlight:** Drag-and-drop scheduling calendar with realtime multi-screen sync, follow-up tracking, analytics dashboards, CSV export, and native Arabic RTL. v5 release cut the entry JS bundle 90.7% and image weight 93.7%.
+- **Resources:** [Live App](https://infinity-bright-portal.vercel.app) *(code private — client project)*
+
+#### 🚀 Mashhour Hub — Production Platform *(client work)*
+> **Bilingual production web platform for content creators, live at [mashhor-hub.com](https://mashhor-hub.com) — frontend development and beta-phase iteration.**
+- **Stack:** Node.js 22 • Firebase • MyFatoorah Payments • reCAPTCHA • GA4 • scripted test-gated release pipeline
+- **Highlight:** Shipped through an automated build pipeline that runs the test suite, blocks secret leakage, and SHA256-stamps every deploy package.
+- **Resources:** [Live Site](https://mashhor-hub.com)
 
 #### 🎮 [NeonTech-Gaming-Store](https://github.com/EngSalahKhaled/NeonTech-Gaming--Store)
 > **Premium gaming e-commerce platform with a rich catalog and real-time WhatsApp checkout routing.**
