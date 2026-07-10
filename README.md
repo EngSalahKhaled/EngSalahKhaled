@@ -2,7 +2,7 @@
 <!--                      HERO BANNER SECTION                   -->
 <!-- ========================================================== -->
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Salah Khaled - Frontend Engineer" />
+  <img src="./assets/header.svg" width="100%" alt="Salah Khaled - Front-End Developer" />
 </p>
 
 <!-- Animated Typing Effect -->
@@ -31,7 +31,7 @@
 <!-- ========================================================== -->
 ## 🧑‍💻 Profile
 
-I am a detail-driven **Frontend Engineer** specializing in engineering premium, accessible, and performant user interfaces. With a strong eye for design systems and clean layouts, I build modern web applications using **React**, **Next.js**, and **TypeScript**, integrating seamlessly with backend services like **Supabase**. 
+I am a detail-driven **Front-End Developer** specializing in engineering premium, accessible, and performant user interfaces. With a strong eye for design systems and clean layouts, I build modern web applications using **React**, **Next.js**, and **TypeScript**, integrating seamlessly with backend services like **Supabase**. 
 
 I focus on clean code, responsive layouts, and smooth animations, while maintaining high performance and SEO visibility. Certified by Meta in Frontend Engineering and Google in AI development.
 
@@ -46,9 +46,9 @@ A selection of my strongest public repositories, ranked by quality, complexity, 
 
 #### 🌟 [AURA](https://github.com/EngSalahKhaled/aura-brand) — Luxury Fashion E-commerce + Admin ERP
 > **A luxury fashion e-commerce storefront unified with a full internal ERP & Admin Dashboard in a single Next.js codebase.**
-- **Stack:** Next.js 14 • TypeScript (strict) • Tailwind CSS • Framer Motion • DOMPurify • Custom EventBus + swappable storage adapter (backend-ready)
+- **Stack:** Next.js 16 • TypeScript (strict) • Tailwind CSS • Framer Motion • DOMPurify • Custom EventBus + swappable storage adapter (backend-ready)
 - **Highlight:** Headless CMS website manager, role-based access control (RBAC), full RTL Arabic localization, inventory alerts, and dynamic SEO (server-side metadata, sitemaps, JSON-LD, OpenGraph).
-- **Resources:** [Live Demo](https://aura-fashion-virid.vercel.app/) • [Repository](https://github.com/EngSalahKhaled/aura-brand)
+- **Resources:** [Live Demo](https://aura-brand-virid.vercel.app/) • [Repository](https://github.com/EngSalahKhaled/aura-brand)
 
 #### ⚡ [Copra-Dashboard](https://github.com/EngSalahKhaled/Copra-Dashboard)
 > **A premium, high-performance admin dashboard featuring a cyberpunk dark-mode glassmorphic aesthetic.**
